@@ -1,0 +1,26 @@
+<!–– statement below fulfills element requirement set bkg col of h1 ––>
+    
+
+h1 {
+  color: rgb(0, 255, 255);
+}
+                     
+    
+   
+h1.intro {
+  color: blue;
+}
+
+p {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    margin-left: 1px;
+  }
+
+  h1 {
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+  }
